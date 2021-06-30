@@ -79,7 +79,7 @@ Nazwa gałęzi mówi nam o tym, jaka to wersja projektu (z jakimi technologiami 
 
 ## Prezentacja i ćwiczenia na katakoda
 
-  [Docker - prezentacja](https://prezi.com/view/YOprFglDWgj7V9Lp5gFf)
+  [Docker - prezentacja](https://prezi.com/view/jfUTBlKqN2gUvPeR9PB2)
 
 ## DOCKER - Ćwiczenia na lokalną maszynę
 
