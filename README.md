@@ -61,6 +61,9 @@ Nazwa gałęzi mówi nam o tym, jaka to wersja projektu (z jakimi technologiami 
   
 ### Core
   [Core](https://github.com/lukasze/spring-core.git)
+
+### AOP
+  [AOP](https://github.com/lukasze/spring_aop)
  
 ## Pet Clinic w różnych wariantach:
  
