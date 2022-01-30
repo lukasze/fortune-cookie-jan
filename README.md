@@ -39,6 +39,7 @@ Nazwa gałęzi mówi nam o tym, jaka to wersja projektu (z jakimi technologiami 
  Staramy się stworzyć i aktualizwoać naszą, własną mapę kompetencji, poniżej przykładowa:
  
  [Spring - mapa kompetencji](https://prezi.com/view/L4x0fhw3WEvopCJckrwv)
+ [Pet Clinic w różnych wariantach](https://spring-petclinic.github.io/docs/forks.html)
  
 ## Ćwiczenia z oficjalnej strony
  
@@ -46,7 +47,7 @@ Nazwa gałęzi mówi nam o tym, jaka to wersja projektu (z jakimi technologiami 
  
  [Klient REST](https://spring.io/guides/gs/consuming-rest/)
  
- [Klient DB)](https://spring.io/guides/gs/accessing-data-jpa/)
+ [Klient DB](https://spring.io/guides/gs/accessing-data-jpa/)
  
 ## Dodatkowe ćwiczenia
 
